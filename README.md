@@ -2,9 +2,11 @@
 
 ## For Linux:
 
-  `git clone git@gitlab.com:RedddFoxxyy/zed-config.git ~/.config/zed`
+```bash
+  rm -rf ~/.config/zed
+  git clone ssh://git@codeberg.org/lockedmutex/zed-config.git ~/.config/zed
+```
 
 ## For Windows:
 
-  `git clone git@gitlab.com:RedddFoxxyy/zed-config.git %AppData%\zed`
-
+  `git clone ssh://git@codeberg.org/lockedmutex/zed-config.git %AppData%\zed`
