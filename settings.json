@@ -53,8 +53,8 @@
   "buffer_font_size": 14.0,
   "theme": {
     "mode": "system",
-    "light": "Catppuccin Latte - No Italics",
-    "dark": "Catppuccin Mocha - No Italics"
+    "light": "VSCode Light+",
+    "dark": "VSCode Dark Modern"
   },
   "preview_tabs": {
     "enabled": false,
